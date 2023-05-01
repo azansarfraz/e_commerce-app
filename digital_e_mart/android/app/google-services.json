@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "938464620426",
+    "project_id": "digital-e-mart",
+    "storage_bucket": "digital-e-mart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938464620426:android:e56d94b3b0bfd08133e273",
+        "android_client_info": {
+          "package_name": "com.example.digital_e_mart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938464620426-e7i3a80ebdf4plsrl2q9h2m0d5hkvqtg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLT3SIr3v9p5XYF9GwcF_W3HdqO9rsuYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938464620426-e7i3a80ebdf4plsrl2q9h2m0d5hkvqtg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
